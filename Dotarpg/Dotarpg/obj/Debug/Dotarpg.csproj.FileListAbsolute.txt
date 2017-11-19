@@ -4,3 +4,10 @@ C:\Users\EroccKeD\Desktop\Dotarpg\Dotarpg\Dotarpg\bin\Debug\Dotarpg.pdb
 C:\Users\EroccKeD\Desktop\Dotarpg\Dotarpg\Dotarpg\obj\Debug\Dotarpg.csprojResolveAssemblyReference.cache
 C:\Users\EroccKeD\Desktop\Dotarpg\Dotarpg\Dotarpg\obj\Debug\Dotarpg.exe
 C:\Users\EroccKeD\Desktop\Dotarpg\Dotarpg\Dotarpg\obj\Debug\Dotarpg.pdb
+C:\Users\Микола\Desktop\Dotarpg\Dotarpg\Dotarpg\bin\Debug\Dotarpg.exe.config
+C:\Users\Микола\Desktop\Dotarpg\Dotarpg\Dotarpg\bin\Debug\Dotarpg.exe
+C:\Users\Микола\Desktop\Dotarpg\Dotarpg\Dotarpg\bin\Debug\Dotarpg.pdb
+C:\Users\Микола\Desktop\Dotarpg\Dotarpg\Dotarpg\obj\Debug\Dotarpg.csprojResolveAssemblyReference.cache
+C:\Users\Микола\Desktop\Dotarpg\Dotarpg\Dotarpg\obj\Debug\Dotarpg.csproj.CoreCompileInputs.cache
+C:\Users\Микола\Desktop\Dotarpg\Dotarpg\Dotarpg\obj\Debug\Dotarpg.exe
+C:\Users\Микола\Desktop\Dotarpg\Dotarpg\Dotarpg\obj\Debug\Dotarpg.pdb

@@ -56,12 +56,93 @@ namespace Dotarpg
             }
         }
 
+        private int Armor;
+        public int armor
+        {
+            get
+            {
+                return Armor;
+            }
+            set
+            {
+                Armor = value;
+            }
+        }
+
+        private double PhisResist;
+        public double phisResist
+        {
+            get
+            {
+                return PhisResist;
+            }
+            set
+            {
+                PhisResist = value;
+            }
+        }
+
+        private double MagicResist;
+        public double magicResist
+        {
+            get
+            {
+                return MagicResist;
+            }
+            set
+            {
+                MagicResist = value;
+            }
+        }
+
+        private double Damage;
+        public double damage
+        {
+            get
+            {
+                return Damage;
+            }
+            set
+            {
+                Damage = value;
+            }
+        }
+
+        private double Hp;
+        public double hp
+        {
+            get
+            {
+                return Hp;
+            }
+            set
+            {
+                Hp = value;
+            }
+        }
+
+        private double Mana;
+        public double mana
+        {
+            get
+            {
+                return Mana;
+            }
+            set
+            {
+                Mana = value;
+            }
+        }
+
         public Hero()
         {
             name = "Name";
             Strenght = 20;
             Agility = 20;
             Intelligence = 20;
+            Hp = 600;
+            Mana = 500;
+
         }
 
         public Hero(string name, double strenght, double agility, double intelligence)
@@ -70,6 +151,9 @@ namespace Dotarpg
             this.strenght = strenght;
             this.agility = agility;
             this.intelligence = intelligence;
+            Hp = 600;
+            Mana = 500;
         }
     }
 }
+        

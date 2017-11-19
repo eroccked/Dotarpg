@@ -42,7 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AgilityHero.cs" />
+    <Compile Include="Game.cs" />
     <Compile Include="Hero.cs" />
+    <Compile Include="IntelligenceHero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StrenghtHero.cs" />
