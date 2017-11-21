@@ -19,9 +19,9 @@ namespace Dotarpg
             damage = strenght;
         }
 
-        public StrenghtHero(int strenght, int agility, int intelligence)
+        public StrenghtHero(string name, int strenght, int agility, int intelligence)
         {
-            this.name = "StrenghtName";
+            this.name = name;
             this.strenght = strenght * 1.2;
             this.agility = agility * 0.7;
             this.intelligence = intelligence * 0.3;

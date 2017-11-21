@@ -18,9 +18,9 @@ namespace Dotarpg
             magicResist = 1 - 0.05 * intelligence / (1 + (0.06 * Math.Abs(intelligence)));
             damage = agility;
         }
-        public AgilityHero(int strenght, int agility, int intelligence)
+        public AgilityHero(string name, int strenght, int agility, int intelligence)
         {
-            this.name = "agilityName";
+            this.name = name;
             this.strenght = strenght * 0.5;
             this.agility = agility * 1.35;
             this.intelligence = intelligence * 0.7;

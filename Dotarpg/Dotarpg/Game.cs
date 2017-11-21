@@ -3,15 +3,24 @@
 
 namespace Dotarpg
 {
-    class Game 
+    class Game : Hero
     {
-        StrenghtHero s1 = new StrenghtHero();
+        StrenghtHero Pudge = new StrenghtHero("Pudge", 20, 8, 7);
+        AgilityHero Dusa = new AgilityHero("Dusa", 10, 20, 20);
+        IntelligenceHero Zeus = new IntelligenceHero("Zeus", 10, 10, 30);
 
 
-        public void Hit(double hp)
+
+        public void Attac()
         {
-            hp = s1.damage;
+            
         }
+
+        public Hero Githp(Hero)
+        {
+        return null;
+        }
+        
         
     }
 }
